@@ -1,0 +1,3 @@
+OMR TOOLS
+=========
+Optical mark recognition code for scoring scanned ratings sheets in psych experiments. Performs image registration to template, figures out location of "bubbles" and scores bubbles according to various poorly documented rubrics. Also allows for manual intervention if errors or duplicates are found. Still a work in progress and probably unusable until I write a tutorial and add some template files. 
